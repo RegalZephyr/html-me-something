@@ -13,7 +13,7 @@ h1 {
 }
 p {
     font-family: "Times New Roman", serif;
-    font-size: 42px;
+    font-size: 12px;
 }
 div {
     border: 1px solid black;
@@ -24,19 +24,25 @@ div {
     padding-left: 80px;
 }
 #partone{
-font-family: Arial
+    font-family: Arial;
+    font-size:42px;
+}
+#parttwo{
+    font-family: Times New Roman;
+    font-size: 20px;
 }
 </style>
 </head>
 <body>
 <div class="intro">
 <p id="partone">YOU CAN'T PROVE </p>
-<p> THAT THIS ISN'T IRONICALLY STYLED</p>
+<p id="partone"> THAT THIS ISN'T IRONICALLY STYLED</p>
 </div>
-<p>Can't say that I actually suck at graphical design if I pretend it's ironic!</p>
-<p>I mean, in reality, I kinda don't appreciate how we have to make two assignments that rely on aesthetic sense when that shouldn't have anything to do with coding.</p>
+<p id="parttwo">Can't say that I actually suck at graphical design if I pretend it's ironic!</p>
+<p>I mean, in reality, I kinda don't appreciate how we have to make two codes that rely on aesthetic sense when that shouldn't have anything to do with coding.</p>
 <p>Because if we were to do this job in real life, presumably a person who knows graphical design would make the website, not someone who specializes strictly in coding.</p>
 <p>But it is what it is, so here we go.</p>
+<p id="partone"> Let's pretend we're not graphically crippled!</p>
 
 </body>
 </html>
