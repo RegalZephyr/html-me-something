@@ -23,12 +23,20 @@ div {
     padding-bottom: 50px;
     padding-left: 80px;
 }
+#partone{
+font-family: Arial
+}
 </style>
 </head>
 <body>
-
-<h1>YOU CAN'T PROVE THAT THIS ISN'T IRONICALLY STYLED</h1>
+<div class="intro">
+<p id="partone">YOU CAN'T PROVE </p>
+<p> THAT THIS ISN'T IRONICALLY STYLED</p>
+</div>
 <p>Can't say that I actually suck at graphical design if I pretend it's ironic!</p>
+<p>I mean, in reality, I kinda don't appreciate how we have to make two assignments that rely on aesthetic sense when that shouldn't have anything to do with coding.</p>
+<p>Because if we were to do this job in real life, presumably a person who knows graphical design would make the website, not someone who specializes strictly in coding.</p>
+<p>But it is what it is, so here we go.</p>
 
 </body>
 </html>
